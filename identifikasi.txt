@@ -1,0 +1,8 @@
+Nama	: Hario Budiharjo
+NIM	: 155150201111133
+Kelas	: TIF-H
+
+*Class		: Mahasiswa
+*Object		: ms
+*Method		: Mahasiswa(constructor),getJarak,getNama,getKecepatan
+*Attribut	: NIM,nama_mahasiswa,jumlahPutaran,jumlah_waktu,jarak_tempuh,keliling_lapangan,kecepatan
